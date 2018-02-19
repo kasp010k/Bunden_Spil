@@ -10,6 +10,8 @@ Dit gevær skyder hurtigt, men er ikke ligefrem automatisk. Måske dette kunne i
 Øverste række ænder giver 20 point, næste giver 30 point, så 40 point mnes de nederste og hurtigste giver 50 point.
 Når 30 ænder er nået forbi slutter spillet. Spil igen ved at trykke Space eller Enter. ESC to exit.
 
+Spillet kan hentes her: File incoming soon!
+
 
 Personlige kommentarer:
 Fra starten skulle jeg nok have fundet en anden tutorial og have startet med at lave mit eget spil fra bunden.
